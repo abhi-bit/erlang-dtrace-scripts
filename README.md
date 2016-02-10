@@ -11,3 +11,4 @@ message pass etc.
 Overtime, I’ll keep pushing relevant D scripts in here. (Would also create
 another repo for capturing similar stuff using SystemTap on Linux)
 
+Note: DTrace is currently supported on Mac, NetBSD/OpenBSD and Solaris platform
